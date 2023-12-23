@@ -1,0 +1,84 @@
+
+Nov 01, 2023 15:16:09.54 NEW SESSION
+Nov 01, 2023 15:16:09.54 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Nov 06, 2023 14:37:05.00 NEW SESSION
+Nov 06, 2023 14:37:05.00 [11300:11148:1106/143705.005:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Nov 06, 2023 14:38:14.79 [11300:11148:1106/143814.795:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Nov 06, 2023 16:29:51.32 [10368:6312:1106/162951.327:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Nov 06, 2023 16:58:18.38 [10368:6312:1106/165818.387:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+
+Nov 07, 2023 14:27:00.09 NEW SESSION
+Nov 07, 2023 14:27:00.09 [5708:1920:1107/142700.085:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Invalid credentials (credentials rejected by client).
+
+Nov 22, 2023 17:14:31.33 NEW SESSION
+Nov 22, 2023 17:14:31.33 [11752:13040:1122/171431.318:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Invalid credentials (credentials rejected by client).
+
+Nov 23, 2023 13:20:57.88 NEW SESSION
+Nov 23, 2023 13:20:57.88 [3872:1968:1123/132057.883:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+Nov 23, 2023 13:25:26.32 [3872:1968:1123/132526.322:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Nov 23, 2023 13:39:09.09 [3872:1968:1123/133909.094:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Nov 23, 2023 14:54:17.28 [3872:1968:1123/145417.284:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+
+Dec 13, 2023 17:09:33.38 NEW SESSION
+Dec 13, 2023 17:09:33.38 [7412:14516:1213/170933.326:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 13, 2023 17:22:27.29 [7412:14516:1213/172226.923:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+
+Dec 18, 2023 13:52:29.54 NEW SESSION
+Dec 18, 2023 13:52:29.54 [14112:14744:1218/135229.538:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Invalid credentials (credentials rejected by client).
+Dec 18, 2023 14:21:29.55 [14112:11012:1218/142129.552:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 18, 2023 14:27:26.28 [14112:11012:1218/142726.288:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 18, 2023 14:36:54.07 [14112:11012:1218/143654.046:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 18, 2023 14:38:35.14 [14112:11012:1218/143835.149:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 18, 2023 14:39:26.64 [14112:11012:1218/143926.647:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 18, 2023 17:12:13.76 [14112:11012:1218/171213.662:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 18, 2023 17:31:43.85 [14112:11012:1218/173143.855:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 18, 2023 17:55:44.79 [14112:11012:1218/175544.787:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+Dec 18, 2023 17:56:10.70 [14112:11012:1218/175610.706:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 18, 2023 17:56:43.13 [14112:11012:1218/175643.138:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+Dec 18, 2023 18:02:35.93 [14112:11012:1218/180235.938:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 18, 2023 18:12:53.39 [14112:11012:1218/181253.382:ERROR:connection_handler_impl.cc(472)] Timed out waiting for GCM Protocol buffer.
+Dec 18, 2023 18:12:53.41 [14112:11012:1218/181253.383:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -7
+Dec 18, 2023 18:42:44.14 [14112:11012:1218/184244.140:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 18, 2023 19:00:43.81 [14112:11012:1218/190043.817:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 18, 2023 19:16:29.00 [14112:11012:1218/191629.004:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 18, 2023 19:26:30.41 [14112:11012:1218/192630.413:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 18, 2023 19:27:10.15 [14112:11012:1218/192710.153:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+
+Dec 20, 2023 13:52:20.77 NEW SESSION
+Dec 20, 2023 13:52:20.78 [8084:5064:1220/135220.740:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Invalid credentials (credentials rejected by client).
+Dec 20, 2023 14:03:01.75 [8084:11824:1220/140301.755:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 20, 2023 14:44:07.27 [8084:11824:1220/144407.256:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 20, 2023 17:19:54.90 [8084:11824:1220/171954.885:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 20, 2023 17:46:59.25 [8084:11824:1220/174659.241:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 20, 2023 18:25:29.22 [8084:11824:1220/182529.223:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+
+Dec 22, 2023 14:01:16.36 NEW SESSION
+Dec 22, 2023 14:01:16.36 [16608:15124:1222/140116.338:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 22, 2023 14:34:26.87 [16608:15124:1222/143426.865:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -103
+Dec 22, 2023 14:34:28.93 [16608:15124:1222/143428.930:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 22, 2023 14:34:40.67 [16608:15124:1222/143440.672:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 22, 2023 14:34:54.14 [16608:15124:1222/143454.144:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 22, 2023 14:34:54.35 [16608:8880:1222/143454.350:ERROR:device_event_log_impl.cc(192)] [14:34:54.349] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 22, 2023 14:45:20.81 [16608:15124:1222/144520.817:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 22, 2023 15:55:46.30 [16608:8880:1222/155546.285:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+Dec 22, 2023 15:56:19.10 [16608:15124:1222/155619.106:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 22, 2023 15:56:21.13 [16608:8880:1222/155621.134:ERROR:device_event_log_impl.cc(192)] [15:56:21.133] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 22, 2023 15:56:21.20 [16608:15124:1222/155621.207:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 22, 2023 16:38:02.10 [16608:8880:1222/163802.091:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Invalid credentials (credentials rejected by client).
+Dec 22, 2023 16:55:52.25 [16608:15124:1222/165552.254:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+
+Dec 23, 2023 14:28:52.54 NEW SESSION
+Dec 23, 2023 14:28:52.54 [6996:15064:1223/142852.540:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 23, 2023 14:29:12.21 [6996:15064:1223/142912.212:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 23, 2023 14:29:26.20 [6996:15064:1223/142926.205:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 23, 2023 14:29:26.58 [6996:16652:1223/142926.584:ERROR:device_event_log_impl.cc(192)] [14:29:26.584] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 23, 2023 14:30:19.27 [6996:15064:1223/143019.277:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 23, 2023 14:32:48.51 [6996:15064:1223/143248.513:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+Dec 23, 2023 14:44:59.55 [6996:15064:1223/144459.552:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 23, 2023 16:19:30.50 [6996:15064:1223/161930.502:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 23, 2023 16:21:49.76 [6996:15064:1223/162149.767:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 23, 2023 16:24:26.74 [6996:15064:1223/162426.741:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 23, 2023 16:37:58.91 [6996:16652:1223/163758.912:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Invalid credentials (credentials rejected by client).
+Dec 23, 2023 17:17:42.92 [6996:15064:1223/171742.926:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 23, 2023 17:24:48.57 [6996:15064:1223/172448.576:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2

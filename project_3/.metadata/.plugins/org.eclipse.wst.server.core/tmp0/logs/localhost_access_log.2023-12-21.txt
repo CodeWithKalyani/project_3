@@ -1,0 +1,16 @@
+127.0.0.1 - - [21/Dec/2023:16:43:15 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [21/Dec/2023:16:43:17 +0530] "GET /project_3/ HTTP/1.1" 200 711
+0:0:0:0:0:0:0:1 - - [21/Dec/2023:16:43:53 +0530] "GET /project_3/WelcomeCtl HTTP/1.1" 200 3815
+0:0:0:0:0:0:0:1 - - [21/Dec/2023:16:43:53 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 784
+0:0:0:0:0:0:0:1 - - [21/Dec/2023:16:44:08 +0530] "GET /project_3/LoginCtl HTTP/1.1" 200 7186
+0:0:0:0:0:0:0:1 - - [21/Dec/2023:16:55:09 +0530] "POST /project_3/LoginCtl HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [21/Dec/2023:16:55:09 +0530] "GET /project_3/WelcomeCtl HTTP/1.1" 200 10010
+0:0:0:0:0:0:0:1 - - [21/Dec/2023:16:55:09 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 784
+0:0:0:0:0:0:0:1 - - [21/Dec/2023:16:55:38 +0530] "GET /project_3/ctl/UserListCtl HTTP/1.1" 200 20363
+0:0:0:0:0:0:0:1 - - [21/Dec/2023:16:55:38 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 784
+0:0:0:0:0:0:0:1 - - [21/Dec/2023:16:55:46 +0530] "GET /project_3/ctl/UserCtl?id=2 HTTP/1.1" 200 17523
+0:0:0:0:0:0:0:1 - - [21/Dec/2023:16:55:46 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 784
+0:0:0:0:0:0:0:1 - - [21/Dec/2023:16:57:57 +0530] "POST /project_3/ctl/UserCtl HTTP/1.1" 200 17745
+0:0:0:0:0:0:0:1 - - [21/Dec/2023:16:57:57 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 784
+0:0:0:0:0:0:0:1 - - [21/Dec/2023:18:43:06 +0530] "GET /project_3/ctl/MarksheetMeritListCtl HTTP/1.1" 200 7443
+0:0:0:0:0:0:0:1 - - [21/Dec/2023:18:43:14 +0530] "GET /project_3/ctl/MarksheetMeritListCtl HTTP/1.1" 200 7443
